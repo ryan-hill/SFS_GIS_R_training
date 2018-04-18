@@ -6,7 +6,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink:  /:categories/:year/:month/:day/:title
-paginate_path:  /AWRA_GIS_R_Workshop/page:num
+paginate_path:  /SFS_GIS_R_Training/page:num
 
 # Setup
 title:            'R Spatial Workshop for 2018 AWRA GIS Conference'
@@ -14,11 +14,11 @@ tagline:          ''
 description:      'This material is for a workshop at the 2018 AWRA GIS
                   conference in Orlando, FL, April 2018.'
 url:              http://mhweber.github.io/AWRA_GIS_R_Workshop
-baseurl:          /AWRA_GIS_R_Workshop
+baseurl:          /SFS_GIS_R_Training
 
-author:
-  name:           'Marc Weber'
-  url:            http://mhweber.github.io
+#author:
+#  name:           ''
+#  url:            http://mhweber.github.io
 
 paginate:         15
 
