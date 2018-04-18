@@ -16,9 +16,9 @@ description:      'This material is for a workshop at the 2018 AWRA GIS
 url:              http://mhweber.github.io/AWRA_GIS_R_Workshop
 baseurl:          /SFS_GIS_R_training
 
-author:
-  name:           ''
-  url:            http://ryan-hill.github.io
+#author:
+#  name:           ''
+#  url:            http://ryan-hill.github.io
 
 paginate:         15
 
