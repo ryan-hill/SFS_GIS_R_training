@@ -11,9 +11,9 @@ paginate_path:  /SFS_GIS_R_training/page:num
 # Setup
 title:            'R Spatial Workshop for 2018 AWRA GIS Conference'
 tagline:          ''
-description:      'This material is for a workshop at the 2018 AWRA GIS
-                  conference in Orlando, FL, April 2018.'
-url:              http://mhweber.github.io/AWRA_GIS_R_Workshop
+description:      'This material is for a workshop at the 2018 SFS GIS
+                  conference in Detroit, MI, June 2018.'
+url:              https://ryan-hill.github.io/sfs-r-gis-2018/
 baseurl:          /SFS_GIS_R_training
 
 #author:
